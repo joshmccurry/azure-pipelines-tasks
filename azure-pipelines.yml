@@ -7,7 +7,7 @@ resources:
   repositories:
   - repository: azure-pipelines-tasks
     type: github
-    endpoint: azureSubscription
+    endpoint: GitHub
     name: joshmccurry/azure-pipelines-tasks
 
 jobs:
